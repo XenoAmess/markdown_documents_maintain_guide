@@ -1,4 +1,4 @@
-# markdown维护手册0.1.0-SNAPSHOT
+# markdown维护手册0.1.0
 本手册并非你所阅读的markdown材料的一部分，
 而是旨在更好地维护markdown材料而提出的，
 对于markdown材料维护人员的要求规范。
