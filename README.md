@@ -1,11 +1,11 @@
-# markdown维护手册0.1.0
+# markdown维护手册0.2.0
 本手册并非你所阅读的markdown材料的一部分，
 而是旨在更好地维护markdown材料而提出的，
 对于markdown材料维护人员的要求规范。
 
 ## 0.及时更新该手册
 该手册发布地址为：
-https://github.com/XenoAmess/markdown_documents_maintain_guide
+https://github.com/XenoAmess/markdown_documents_maintain_guide/tree/master
 
 在遇到了新的问题并解决后，
 如果这个问题有可重复性，
